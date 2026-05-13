@@ -10,7 +10,7 @@ pip install requests
 
 ## Setup
 
-1. Get your **App Token** from [HTB Profile → API Token](https://app.hackthebox.com/profile/settings).
+1. Get your **App Token** from [HTB Profile → API Token](https://app.hackthebox.com/account-settings).
 2. Edit `machines.txt` and list the machine names you want to download (one per line).
 
 ## Usage
