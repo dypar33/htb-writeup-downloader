@@ -1,0 +1,6 @@
+# HTB machine names — one per line
+# Lines starting with '#' are ignored
+Lame
+Legacy
+Devel
+Bastard
